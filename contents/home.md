@@ -1,16 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Liushiyu](https://img.shields.io/badge/Liushiyu-Wechat-green?logo=wechat)](https://docs.qq.com/doc/DUlhib2JVZVlZUmlS)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+lsy0731[at]whu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+-Master of Stomatology, Orthodontics, Wuhan University, 2022—2025 .
+ Rank: Top 10%
+-Bachelor of Stomatology, Stomatology, Shihezi University, 2018—2022.
+ Rank: Top 3%
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning (Medical Image Segmentation, Convolutional Neural Networks)
+External Apical Root Resorption(Orthodontic Appliances, Clinical Research )
+
 
