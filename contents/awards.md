@@ -2,7 +2,7 @@
 
 - <strong>Zhangzhonghan Scholarship(top 1%, Shihezi University)</strong>，2020
 
-- <strong>Excellent project of National College Student Innovation and Entrepreneurship Training Plan</strong>(project number: 202010759023)，2020
+- <strong>Excellent project of National College Student Innovation and Entrepreneurship Training Plan</strong>，2020
 
 - <strong>Gratitude to Modern Chinese Scientists Scholarship (top 0.1%, highest honor at SHZU)</strong>，2021
 

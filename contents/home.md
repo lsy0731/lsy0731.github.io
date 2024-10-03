@@ -2,7 +2,7 @@
 
 [![Liushiyu](https://img.shields.io/badge/Liushiyu-Wechat-green?logo=wechat)](https://docs.qq.com/doc/DSUFJZ2xkYWplSk10)
 
-Shiyu Liu, a master's student in orthodontics at the School of Stomatology, Wuhan University. 
+Liu Shiyu, a master's student in orthodontics at the School of Stomatology, Wuhan University. 
 
 #### Email
 lsy0731@whu.edu.cn
@@ -10,18 +10,18 @@ lsy0731@whu.edu.cn
 #### Education
 - Master of Stomatology, Orthodontics, Wuhan University, 2022—2025.
 
-  <strong>Rank: Top 10%</strong>
+  Rank: Top 10%
 
 - Bachelor of Stomatology, Stomatology, Shihezi University, 2018—2022.
 
-  <strong>Rank: Top 3%</strong>
+  Rank: Top 3%
 
 #### Research Interests
-Deep Learning (Multi-Task Image Segmentation, Convolutional Neural Networks)
+- Deep Learning (Multi-Task Image Segmentation, Convolutional Neural Networks)
 
-Orthodontically Induced External Apical Root Resorption(Clinical Research)
+- Orthodontically Induced External Apical Root Resorption(Clinical Research)
 
-Biomechanical Characteristics of Clear Aligners
+- Biomechanical Characteristics of Clear Aligners
 
 #### Extracurricural Activities
 - Executive President of the Graduate Student Council, Wuhan University
@@ -30,4 +30,4 @@ Biomechanical Characteristics of Clear Aligners
 
 - Volunteer of the National College Student Oral Health Volunteer Lecture Team
 
-- The 10th Graduate Group Dance Competition of Wuhan University <strong>Second Prize</strong>
+- <strong>Second Prize</strong> of the 10th Graduate Group Dance Competition of Wuhan University 
